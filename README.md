@@ -1,6 +1,6 @@
-<!-- Profile Banner -->
+<!-- Profile Animated Header -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Coding Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-header.gif" alt="Animated Coding Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
@@ -134,7 +134,6 @@
   <a href="https://www.figma.com/" title="Figma" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" />
   </a>
-  <!-- Add more icons or links as you wish -->
 </p>
 
 ---
@@ -177,4 +176,7 @@ Aplicativo para motoristas de veículos elétricos, desenvolvido em Swift e Kotl
 
 ---
 
-<p align="center"><b>🚀 Obrigado por visitar meu perfil!</b></p>
+<!-- Profile Animated Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
+</p>
