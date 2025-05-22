@@ -1,4 +1,4 @@
-<!-- Profile Animated Header -->
+![image](https://github.com/user-attachments/assets/6e634ee8-e1de-4456-987b-d525a032a555)<!-- Profile Animated Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-header.gif" alt="Animated Coding Banner" width="100%" />
 </p>
@@ -22,12 +22,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="32"/><br>Brasil<br><sub>Vivi a maior parte da vida</sub></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="32"/><br>Portugal<br><sub>Nascido</sub></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="32"/><br>Alemanha<br><sub>1 ano voluntário</sub></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="32"/><br>França</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="32"/><br>Suíça</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="32"/><br>+15 países</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="32"/><br>Brasil<br><sub>Moro nesse país</sub></td>
   </tr>
 </table>
 
@@ -37,7 +32,6 @@
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
-- 🇫🇷 <b>Francês:</b> básico
 - 🇪🇸 <b>Espanhol:</b> em aprendizado (ensino médio)
 - 🇩🇪 <b>Alemão:</b> intermediário
 
