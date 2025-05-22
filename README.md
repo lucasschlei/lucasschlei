@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6e634ee8-e1de-4456-987b-d525a032a555)<!-- Profile Animated Header -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-header.gif" alt="Animated Coding Banner" width="100%" />
 </p>
