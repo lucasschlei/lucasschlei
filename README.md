@@ -1,16 +1,123 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80" alt="Coding Banner" width="100%" />
+</p>
 
-<!--
-**lucasschlei/lucasschlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
+<h2 align="center">Sou Lucas Schlei</h2>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+- 🎓 <b>Desenvolvedor Júnior em formação</b>, sempre em busca de aperfeiçoamento constante.
+- 🎯 <b>Foco em:</b> Desenvolvimento FullStack, boas práticas de programação e desenvolvimento mobile.
+- 📚 <b>Curioso por:</b> Clean Code, arquitetura de software, testes automatizados.
+- 🔧 <b>Aprendendo com o CentroWeg</b> em atividades e projetos diversos.
+- 💼 <b>Em busca da minha primeira oportunidade profissional na área.</b>
+
+---
+
+## 🌍 Países que já visitei
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="32"/><br>Brasil<br><sub>Vivi a maior parte da vida</sub></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197463.png" width="32"/><br>Portugal<br><sub>Nascido</sub></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="32"/><br>Alemanha<br><sub>1 ano voluntário</sub></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="32"/><br>França</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197540.png" width="32"/><br>Suíça</td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="32"/><br>+15 países</td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Idiomas
+
+- 🇧🇷 <b>Português:</b> fluente (nativo)
+- 🇺🇸 <b>Inglês:</b> básico
+- 🇫🇷 <b>Francês:</b> básico
+- 🇪🇸 <b>Espanhol:</b> em aprendizado (ensino médio)
+- 🇩🇪 <b>Alemão:</b> intermediário
+
+---
+
+## 🎓 Formação
+
+- Graduando em <b>Análise e Desenvolvimento de Sistemas</b> (Católica SC)
+- Cursando <b>Pós-Graduação em Análise de Dados</b>
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
+  <!-- Add more icons as you wish -->
+</p>
+
+---
+
+## 📂 Repositórios em destaque
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/seuusuario/projeto-backend-java)
+Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" /> WEG Digital Notify [Flutter]
+Aplicativo mobile desenvolvido em Flutter para notificações digitais WEG.
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="24" /> WEMOB EV Drivers [Swift & Kotlin]
+Aplicativo para motoristas de veículos elétricos, desenvolvido em Swift e Kotlin.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasschlei&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschlei&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/seuperfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:seu.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><b>🚀 Obrigado por visitar meu perfil!</b></p>
