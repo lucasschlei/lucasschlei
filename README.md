@@ -38,8 +38,6 @@
 
 ## 🎓 Formação
 
-- Graduando em <b>Análise e Desenvolvimento de Sistemas</b> (Católica SC)
-- Cursando <b>Pós-Graduação em Análise de Dados</b>
 
 ---
 
