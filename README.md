@@ -97,11 +97,6 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/seuusuario/projeto-backend-java)
 Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24" /> WEG Digital Notify [Flutter]
-Aplicativo mobile desenvolvido em Flutter para notificações digitais WEG.
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="24" /> WEMOB EV Drivers [Swift & Kotlin]
-Aplicativo para motoristas de veículos elétricos, desenvolvido em Swift e Kotlin.
 
 ---
 
