@@ -31,8 +31,7 @@
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
-- 🇪🇸 <b>Espanhol:</b> em aprendizado (ensino médio)
-- 🇩🇪 <b>Alemão:</b> intermediário
+
 
 ---
 
