@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-header.gif" alt="Animated Coding Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
 <h2 align="center">Sou Lucas Schlei</h2>
@@ -17,18 +15,14 @@
 
 ---
 
-
-
 ## 🌐 Idiomas
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
 
-
 ---
 
 ## 🎓 Formação
-
 
 ---
 
@@ -89,7 +83,6 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/seuusuario/projeto-backend-java)
 Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -98,6 +91,19 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   <img src="https://github-readme-stats.vercel.app/api?username=lucasschlei&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschlei&layout=compact&theme=radical" width="48%" />
 </p>
+
+---
+
+### 📊 Gráfico de atividades do GitHub
+
+<br>
+
+[![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&theme=tokyo-night&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
+
+---
+
+<p><b>Visualizações de perfil</b></p>
+<img src="https://profile-counter.glitch.me/lucasschlei/count.svg" />
 
 ---
 
