@@ -7,12 +7,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 <b>Desenvolvedor Júnior em formação</b>, sempre em busca de aperfeiçoamento constante.
-- 🎯 <b>Foco em:</b> Desenvolvimento FullStack, boas práticas de programação e desenvolvimento mobile.
-- 📚 <b>Curioso por:</b> Clean Code, arquitetura de software, testes automatizados.
-- 🔧 <b>Aprendendo com o CentroWeg</b> em atividades e projetos diversos.
-- 💼 <b>Em busca da minha primeira oportunidade profissional na área.</b>
-
+- 🎓 <b>Desenvolvedor em formação</b>, 
 ---
 
 ## 🌐 Idiomas
