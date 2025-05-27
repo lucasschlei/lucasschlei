@@ -17,15 +17,7 @@
 
 ---
 
-## 🌍 Países que já visitei
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="32"/><br>Brasil<br><sub>Moro nesse país</sub></td>
-  </tr>
-</table>
-
----
 
 ## 🌐 Idiomas
 
