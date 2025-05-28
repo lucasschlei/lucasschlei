@@ -88,7 +88,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschlei&layout=compact&theme=radical" width="48%" />
 </p>
 
---
+---
 
 ### 📊 Gráfico de atividades do GitHub
 
