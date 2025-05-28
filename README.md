@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
 <h2 align="center">Sou Lucas Schlei</h2>
 
@@ -15,7 +9,7 @@
 - 🎓 <b>Desenvolvedor em formação</b>, 
 ---
 
-## 🌐 Idiomas
+## 🌐 Idioma
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
