@@ -135,6 +135,9 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   <a href="mailto:seu.email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+   <a href="https://www.instagram.com/schlei.sc/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
