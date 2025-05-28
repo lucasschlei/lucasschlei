@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 <b>Desenvolvedor em formação</b>, 
+- 🎓 <b>Desenvolvedor em formação.</b>, 
 ---
 
 ## 🌐 Idioma
