@@ -13,7 +13,7 @@
 
 ## 🌐 Idioma
 
-- 🇧🇷 <b>Português:</b> fluente. (nativo)
+- 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
 
 ---
