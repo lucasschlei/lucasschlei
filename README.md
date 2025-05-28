@@ -11,7 +11,7 @@
 - 🎓 <b>Desenvolvedor em formação.</b>, 
 ---
 
-## 🌐 Idioma
+## 🌐 Idioma.
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
