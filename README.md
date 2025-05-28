@@ -2,10 +2,9 @@
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
 </h1>
+
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
 <h2 align="center">Sou Lucas Schlei</h2>
-
----
 
 
 ## 🧑‍💻 Sobre mim
@@ -71,6 +70,22 @@
   </a>
   <a href="https://www.figma.com/" title="Figma" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" />
+  </a>
+  <!-- IDEs e Ferramentas adicionais -->
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" />
+  </a>
+  <a href="https://www.eclipse.org/" title="Eclipse" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="35" />
+  </a>
+  <a href="https://www.anaconda.com/" title="Anaconda" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="35" />
+  </a>
+  <a href="https://jupyter.org/" title="Jupyter Notebook" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" />
   </a>
 </p>
 
