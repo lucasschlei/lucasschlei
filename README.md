@@ -137,6 +137,11 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   </a>
 </p>
 
+
+### 8. 🔥 Streak do GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucasschlei&theme=default)](https://git.io/streak-stats)
+
 ---
 
 <!-- Profile Animated Footer -->
