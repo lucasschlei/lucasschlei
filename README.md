@@ -12,7 +12,9 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 <br>
 
 </div>
+<div>
 <img align="right" alt="GIF animado" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
 ## 🧑‍💻 Sobre mim
 
@@ -166,5 +168,5 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=15000&lines=Obrigado+pela+visita,+até+mais!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&pause=1000&color=00B0FF&lines=Obrigado+pela+visita,+até+mais!;&color=00FF00&lines=Obrigado+pela+visita,+até+mais!;&color=FF3131&lines=Obrigado+pela+visita,+até+mais!;" />
 </h1>
