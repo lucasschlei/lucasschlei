@@ -50,9 +50,6 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
   <a href="https://www.python.org/" title="Python" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
-  </a>
   <a href="https://devdocs.io/c/" title="C" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
   </a>
@@ -61,10 +58,6 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
   </a>
   <a href="https://www.mysql.com/" title="MySQL" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
-  </a>
   <a href="https://www.linux.org/" title="Linux" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
   </a>
