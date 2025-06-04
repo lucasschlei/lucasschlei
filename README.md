@@ -119,9 +119,6 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 <img src="https://profile-counter.glitch.me/lucasschlei/count.svg" />
 
 ---
-![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
 
 
@@ -136,6 +133,12 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
 </p>
+
+![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+<br/>
 
 
 ## 📫 Como me encontrar
