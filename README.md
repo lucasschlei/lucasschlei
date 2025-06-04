@@ -8,6 +8,8 @@
 _"Esta afirmação é fiel e digna de toda aceitação:  
 Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
 **1 Timóteo 1:15**  
+<br>
+<br>
 
 </div>
 <img align="right" alt="GIF animado" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
