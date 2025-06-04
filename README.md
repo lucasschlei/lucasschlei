@@ -1,10 +1,15 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
-</h1>
-
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
-<h2 align="center">Sou Lucas Schlei</h2>
+<h2 align="center">Sou o Lucas Schlei</h2>
+<br>
 
+<div align="center">
+
+ 
+_"Esta afirmação é fiel e digna de toda aceitação:  
+Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
+**1 Timóteo 1:15**  
+
+</div>
 <img align="right" alt="GIF animado" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧑‍💻 Sobre mim
@@ -154,3 +159,10 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<br>
+<br>
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+por+me+visitar,+até+a+próxima!;" />
+</h1>
