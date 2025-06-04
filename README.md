@@ -123,6 +123,21 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
  
 </div>
 
+
+
+###  🔥 Fogo no GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucasschlei&theme=default)](https://git.io/streak-stats)
+
+
+---
+
+<!-- Profile Animated Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
+</p>
+
+
 ## 📫 Como me encontrar
 
 <p align="left">
@@ -135,16 +150,4 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   <a href="mailto:lucas_schlei@estudante.sesisenai.org.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
-### 8. 🔥 Streak do GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucasschlei&theme=default)](https://git.io/streak-stats)
-
-
----
-
-<!-- Profile Animated Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
 </p>
