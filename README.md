@@ -5,9 +5,12 @@
 <div align="center">
 
  
-_"Está afirmação é fiel e digna de todos acessíveis:  
+_"Está afirmação é fiel e digna de toda aceitção:  
 Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
 **1 Timóteo 1:15** 
+
+
+
 
 
 <br>
