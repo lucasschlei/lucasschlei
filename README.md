@@ -4,6 +4,9 @@
 <br>
 <br>
 <div align="center">
+<br>
+<br>
+
 
  
 _"Está afirmação é fiel e digna de toda aceitção:  
@@ -19,8 +22,10 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 <br>
 </div>
 <div>
-<img align="right" alt="GIF animado" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="rightr" alt="GIF animado" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
+<br>
+<br>
 
 ## 🧑‍💻 Sobre mim
 
