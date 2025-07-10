@@ -22,7 +22,6 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 <br>
 </div>
 
-<img align="rightr" alt="GIF animado" height="180px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <br>
 <br>
