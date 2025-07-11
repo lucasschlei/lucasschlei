@@ -8,6 +8,7 @@
 <br>
 
 
+
  
 _"Está afirmação é fiel e digna de toda aceitção:  
 Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
@@ -113,8 +114,9 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasschlei&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschlei&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasschlei&show_icons=true&theme=radical" width="45%" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschlei&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
+
 </p>
 
 ---
