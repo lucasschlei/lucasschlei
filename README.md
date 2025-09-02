@@ -109,7 +109,7 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
 
 ## 📂 Repositórios em destaque
 
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java][Repositório em destaque](https://github.com/CaduBraga/WegOne)
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/CaduBraga/WegOne)
 Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
 
 ---
