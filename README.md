@@ -112,7 +112,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   </a>
 </div>
 
----
+
 
 <!-- Profile Animated Footer -->
 <p align="center">
