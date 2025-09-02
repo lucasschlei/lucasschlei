@@ -27,18 +27,19 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 <br>
 <br>
 
-## 🧑‍💻 Sobre mim
+<h1 align="center">  🧑‍💻 Sobre mim </h1>
 
 Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico em Desenvolvimento de Sistemas no SESI-SENAI e também faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempre busco evoluir nessa área de tecnologia. Tenho interesse por programação, inovação e desafios. Gosto de aprender coisas novas, trabalhar em equipe e participar de projetos práticos. Nas horas vagas, gosto de assitir esportes e praticar, escutar músicas e explorar novidades do mundo tecnologia.
 
-## 🌐 Idioma.
+<h1 align="center"> 🌐 Idioma. </h1>
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
 
 ---
 
-## 🎓 Certificação
+<h1 align="center"> 🎓 Certificação </h1>
+
 
 - SENAI - Controle Emocional para Comunicação Profissional
 - SENAI - Design Thinking
@@ -46,7 +47,8 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
 - SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
 ---
 
-## 💻 Tecnologias e Ferramentas
+<h1 align="center"> 💻 Tecnologias e Ferramentas </h1>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -75,14 +77,14 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
 
 ---
 
-## 📂 Repositórios em destaque
+<h1 align="center"> 📂 Repositórios em destaque </h1>
 
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/CaduBraga/WegOne)
 Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
 
 ---
 
-## 📊 Estatísticas do GitHub
+<h1 align="center"> 📊 Estatísticas do GitHub </h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasschlei&show_icons=true&theme=radical" width="45%" />
@@ -92,25 +94,23 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 ---
 
-### 📊 Gráfico de atividades do GitHub
+<h1 align="center"> 📊 Gráfico de atividades do GitHub </h1>
 
 <br>
 
 [![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&theme=tokyo-night&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
 
----
-
-<p><b>Visualizações de perfil</b></p>
-<img src="https://profile-counter.glitch.me/lucasschlei/count.svg" />
-
----
 
 
 
-###  🔥 Fogo no GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucasschlei&theme=default)](https://git.io/streak-stats)
+<h1 align="center"> 🔥 Fogo no GitHub </h1>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=lucasschlei&theme=default" alt="GitHub Streak"/>
+  </a>
+</div>
 
 ---
 
@@ -119,11 +119,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
 </p>
 
-![Snake animation](https://github.com/brendongabriel/brendongabriel/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
 
-<br/>
 
 
 ## 📫 Como me encontrar
@@ -139,10 +135,8 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 <br>
 <br>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=15000&color=2ecc40&lines=Obrigado+pela+visita,+até+mais!;" />
 </h1>
