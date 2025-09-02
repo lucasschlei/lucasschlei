@@ -128,7 +128,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 ## 📫 Como me encontrar
 
-
+<p align="center">
   <a href="https://www.instagram.com/schlei.sc/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -141,7 +141,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=15000&color=2ecc40&lines=Obrigado+pela+visita,+até+mais!;" />
 </h1>
-
+</p>
 
 <h1 align="center">
 
