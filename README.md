@@ -38,8 +38,12 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
 
 ---
 
-## 🎓 Formação
+## 🎓 Certificação
 
+- SENAI - Controle Emocional para Comunicação Profissional
+- SENAI - Design Thinking
+- SENAI - Informática Básica
+- SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
 ---
 
 ## 💻 Tecnologias e Ferramentas
