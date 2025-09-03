@@ -36,7 +36,7 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 
 Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico em Desenvolvimento de Sistemas no SESI-SENAI e também faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempre busco evoluir nessa área de tecnologia. Tenho interesse por programação, inovação e desafios. Gosto de aprender coisas novas, trabalhar em equipe e participar de projetos práticos. Nas horas vagas, gosto de assitir esportes e praticar, escutar músicas e explorar novidades do mundo tecnologia.
 
-<h1 align="center"> 🌐 Idioma. </h1>
+<h1 align="center"> 🌐 Idioma </h1>
 
 - 🇧🇷 <b>Português:</b> fluente (nativo)
 - 🇺🇸 <b>Inglês:</b> básico
