@@ -109,13 +109,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 
 
-<h1 align="center"> 🔥 Fogo no GitHub </h1>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lucasschlei&theme=default" alt="GitHub Streak"/>
-  </a>
-</div>
 
 
 
