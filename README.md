@@ -93,7 +93,7 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
   <img src="https://img.shields.io/badge/LEGO-F7DF1E?style=for-the-badge&logo=lego&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notepad-1E90FF?style=for-the-badge&logo=notepad&logoColor=white"/>
 </div>
----
+
 
 <h1 align="center"> 📂 Repositórios em destaque </h1>
 
