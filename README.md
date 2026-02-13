@@ -146,10 +146,4 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 </p>
 <br>
 <br>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=15000&color=2ecc40&lines=Obrigado+pela+visita,+até+mais!;" />
-</h1>
-</p>
-
-<h1 align="center">
 
