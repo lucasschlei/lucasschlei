@@ -1,59 +1,148 @@
-# README.md
 
-## Sobre mim
+<h1 align="center"> Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
+<h2 align="center">Sou o Lucas Schlei</h2>
+<br>
+<br>
+<div align="center">
+<br>
+<br>
 
-[Incluir informações sobre você e suas experiências.]
 
-## Idioma
 
-[Incluir idiomas que você fala.]
 
-## Certificação
 
-[Incluir suas certificações.]
+_"Está afirmação é fiel e digna de toda aceitção:  
+Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
+**1 Timóteo 1:15** 
 
-## Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=oracle)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=flat&logo=arduino)
-![VSCode](https://img.shields.io/badge/VSCode-000000?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm)
-![Eclipse](https://img.shields.io/badge/Eclipse-000000?style=flat&logo=eclipse)
-![Anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat&logo=anaconda)
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat&logo=jupyter)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap)
-![Node-RED](https://img.shields.io/badge/Node-RED-000000?style=flat&logo=node-red)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat&logo=pandas)
-![Oracle VM VirtualBox](https://img.shields.io/badge/Oracle%20VM%20VirtualBox-000000?style=flat&logo=oracle-vm-virtualbox)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-000000?style=flat&logo=apache-maven)
-![Canva](https://img.shields.io/badge/Canva-000000?style=flat&logo=canva)
-![Cisco](https://img.shields.io/badge/Cisco-000000?style=flat&logo=cisco)
-![Jira](https://img.shields.io/badge/Jira-000000?style=flat&logo=jira)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion)
-![LEGO](https://img.shields.io/badge/LEGO-000000?style=flat&logo=lego)
-![Notepad](https://img.shields.io/badge/Notepad-000000?style=flat&logo=notepad)
 
-## Repositórios em destaque
 
-[Incluir seus repositórios em destaque aqui.]
 
-## Gráfico de atividades do GitHub
+<br>
+<br>
+<br>
+</div>
 
-![Gráfico de atividades do GitHub](https://github.com/users/lucasschlei/contributions)
 
-## Como me encontrar
+<br>
+<br>
 
-[Incluir formas de contato ou links para redes sociais.
+<h1 align="center">  🧑‍💻 Sobre mim </h1>
+
+
+
+
+
+Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico em Desenvolvimento de Sistemas no SESI-SENAI e também faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempre busco evoluir nessa área de tecnologia. Tenho interesse por programação, inovação e desafios. Gosto de aprender coisas novas, trabalhar em equipe e participar de projetos práticos. Nas horas vagas, gosto de assitir esportes e praticar, escutar músicas e explorar novidades do mundo tecnologia.
+
+<h1 align="center"> 🌐 Idioma </h1>
+
+- 🇧🇷 <b>Português:</b> fluente (nativo)
+- 🇺🇸 <b>Inglês:</b> básico
+
+---
+
+<h1 align="center"> 🎓 Certificação </h1>
+
+
+- SENAI - Controle Emocional para Comunicação Profissional
+- SENAI - Design Thinking
+- SENAI - Informática Básica
+- SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
+---
+
+<h1 align="center"> 💻 Tecnologias e Ferramentas </h1>
+
+
+
+
+<div align="center">
+  <!-- Linguagens de Programação -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+  <!-- Ferramentas e Plataformas -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-42B029?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20VM%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1D9DD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LEGO-F7DF1E?style=for-the-badge&logo=lego&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Notepad-1E90FF?style=for-the-badge&logo=notepad&logoColor=white"/>
+</div>
+
+
+<h1 align="center"> 📂 Repositórios em destaque </h1>
+
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/CaduBraga/WegOne)
+Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
+
+---
+
+<h1 align="center"> 📊 Estatísticas do GitHub </h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasschlei&show_icons=true&theme=radical" width="45%" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasschlei&layout=compact&hide_border=true&title_color=ECEFF4&text_color=ECEFF4&bg_color=0d1117" />
+
+</p>
+
+---
+
+<h1 align="center"> 📊 Gráfico de atividades do GitHub </h1>
+
+<br>
+
+[![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&theme=tokyo-night&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
+
+
+
+
+
+
+
+
+
+<!-- Profile Animated Footer -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
+</p>
+
+
+
+
+## 📫 Como me encontrar
+
+<p align="center">
+  <a href="https://www.instagram.com/schlei.sc/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:lucas_schlei@estudante.sesisenai.org.br" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+<br>
+<br>
