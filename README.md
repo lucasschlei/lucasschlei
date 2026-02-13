@@ -1,59 +1,4 @@
-
-<h1 align="center"> Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
-<h2 align="center">Sou o Lucas Schlei</h2>
-<br>
-<br>
-<div align="center">
-<br>
-<br>
-
-
-
-
- 
-_"Está afirmação é fiel e digna de toda aceitção:  
-Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
-**1 Timóteo 1:15** 
-
-
-
-
-
-<br>
-<br>
-<br>
-</div>
-
-
-<br>
-<br>
-
-<h1 align="center">  🧑‍💻 Sobre mim </h1>
-
-
-
-
-
-Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico em Desenvolvimento de Sistemas no SESI-SENAI e também faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempre busco evoluir nessa área de tecnologia. Tenho interesse por programação, inovação e desafios. Gosto de aprender coisas novas, trabalhar em equipe e participar de projetos práticos. Nas horas vagas, gosto de assitir esportes e praticar, escutar músicas e explorar novidades do mundo tecnologia.
-
-<h1 align="center"> 🌐 Idioma </h1>
-
-- 🇧🇷 <b>Português:</b> fluente (nativo)
-- 🇺🇸 <b>Inglês:</b> básico
-
----
-
-<h1 align="center"> 🎓 Certificação </h1>
-
-
-- SENAI - Controle Emocional para Comunicação Profissional
-- SENAI - Design Thinking
-- SENAI - Informática Básica
-- SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
----
-
 <h1 align="center"> 💻 Tecnologias e Ferramentas </h1>
-
 
 
 
@@ -71,6 +16,10 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
   <!-- Ferramentas e Plataformas -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7185?style=for-the-badge&logo=xampp&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -93,47 +42,3 @@ Ainda sou estudante do Ensino Médio que faço juntamente integrado ao Técnico 
   <img src="https://img.shields.io/badge/LEGO-F7DF1E?style=for-the-badge&logo=lego&logoColor=black"/>
   <img src="https://img.shields.io/badge/Notepad-1E90FF?style=for-the-badge&logo=notepad&logoColor=white"/>
 </div>
-
-
-<h1 align="center"> 📂 Repositórios em destaque </h1>
-
-### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" /> [projeto-backend-java](https://github.com/CaduBraga/WegOne)
-Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com suporte a diferentes idiomas (Português, Inglês, Espanhol, Francês e Alemão) e um banco de dados seguro.
-
----
-
-<h1 align="center"> 📊 Gráfico de atividades do GitHub </h1>
-
-<br>
-
-[![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&theme=tokyo-night&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
-
-
-
-
-
-
-
-
-
-<!-- Profile Animated Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
-</p>
-
-
-
-
-## 📫 Como me encontrar
-
-<p align="center">
-  <a href="https://www.instagram.com/schlei.sc/" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:lucas_schlei@estudante.sesisenai.org.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-<br>
-<br>
-
