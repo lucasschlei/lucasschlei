@@ -50,6 +50,7 @@ Faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempr
 - SENAI - Design Thinking
 - SENAI - Informática Básica
 - SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
+- SENAI - Técnico em Desenvolvimento de Sistemas — 1200h | 2023–2025
 ---
 
 <h1 align="center"> 💻 Tecnologias e Ferramentas </h1>
