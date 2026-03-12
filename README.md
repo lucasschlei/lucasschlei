@@ -90,7 +90,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 
 
-<h1 align="center"> 📊 Gráfico de atividades do GitHub </h1>
+<h1 align="center">  Contribuição  </h1>
 
 <br>
 
