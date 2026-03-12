@@ -5,6 +5,8 @@
 
 <br>
 <br>
+<div align="center">
+
 
 <br>
 <br>
@@ -18,6 +20,7 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 
 
 
+</div>
 
 
 
