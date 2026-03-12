@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3d0005&height=200&section=header" width="100%" />
+
+
+
 <h1 align="center"> Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
 <h2 align="center">Sou o Lucas Schlei</h2>
 <br>
@@ -137,5 +141,8 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 <br>
 <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3d0005&height=120&section=footer" width="100%" />
+
