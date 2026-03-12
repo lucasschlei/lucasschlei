@@ -3,27 +3,6 @@
 
 
 
-<br>
-<br>
-<div align="center">
-
-
-<br>
-<br>
-
-
-
-
-_"Está afirmação é fiel e digna de toda aceitção:  
-Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
-**1 Timóteo 1:15** 
-
-
-
-</div>
-
-
-
 
 <br>
 <br>
@@ -147,5 +126,26 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 <br>
 <br>
+
+
+<br>
+<br>
+<div align="center">
+
+
+<br>
+<br>
+
+
+
+
+_"Está afirmação é fiel e digna de toda aceitção:  
+Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_  
+**1 Timóteo 1:15** 
+
+
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3d0005&height=120&section=footer" width="100%" />
 
