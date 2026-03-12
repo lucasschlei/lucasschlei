@@ -6,15 +6,7 @@
 <br>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/lucasschlei/lucasschlei-commits/output/dist/pacman-contribution-graph.svg
-">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/lucasschlei/lucasschlei-commits/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" 
-       src="https://raw.githubusercontent.com/lucasschlei/lucasschlei-commits/output/pacman-contribution-graph.svg">
-</picture>
+
 
 
 _"Está afirmação é fiel e digna de toda aceitção:  
