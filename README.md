@@ -113,7 +113,8 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 <br>
 
-[![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&theme=tokyo-night&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
+[![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&bg_color=000000&color=ffffff&line=3d0005&point=3d0005&area_color=3d0005&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
+
 
 
 
