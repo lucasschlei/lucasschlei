@@ -2,11 +2,10 @@
 
 
 
-<h1 align="center"> Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
-<h2 align="center">Sou o Lucas Schlei</h2>
+
 <br>
 <br>
-<div align="center">
+
 <br>
 <br>
 
@@ -38,7 +37,7 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 
 
 
-Faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempre busco evoluir nessa área de tecnologia. Tenho interesse por programação, inovação e desafios. Gosto de aprender coisas novas, trabalhar em equipe e participar de projetos práticos. Nas horas vagas, gosto de assitir esportes e praticar, escutar músicas e jogar sinuca.
+Faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempre busco evoluir nessa área de tecnologia. Tenho interesse por programação, inovação e desafios. Gosto de aprender coisas novas, trabalhar em equipe e participar de projetos práticos. Nas horas vagas, gosto de assistir esportes e praticar, escutar músicas e jogar sinuca.
 
 <h1 align="center"> 🌐 Idioma </h1>
 
