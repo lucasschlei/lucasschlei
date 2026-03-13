@@ -122,12 +122,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
   </a>
 </p>
 
-<br>
-<br>
 
-
-<br>
-<br>
 <div align="center">
 
 
