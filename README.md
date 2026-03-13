@@ -90,9 +90,7 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 
 
-<h1 align="center">  Contribuição  </h1>
-
-<br>
+<h1 align="center">  
 
 [![lucasschlei's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasschlei&bg_color=000000&color=ffffff&line=3d0005&point=3d0005&area_color=3d0005&hide_border=true&area=true)](https://github.com/lucasschlei/github-readme-activity-graph)
 
@@ -131,11 +129,6 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 <br>
 <br>
 <div align="center">
-
-
-<br>
-<br>
-
 
 
 
