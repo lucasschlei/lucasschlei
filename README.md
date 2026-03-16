@@ -98,19 +98,10 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 
 
-<!-- Profile Animated Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
-</p>
+<div align="center">
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Gráfico de Contribuições 3D" width="800">
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/lucasschlei/lucasschlei/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/lucasschlei/lucasschlei/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" 
-       src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
