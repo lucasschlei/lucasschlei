@@ -98,12 +98,6 @@ Sistema simples de cadastro e gerenciamento de diferentes tipos de manuais, com 
 
 
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Gráfico de Contribuições 3D" width="800">
-</div>
-
-
-
 
 ## 📫 Como me encontrar
 
