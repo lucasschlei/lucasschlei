@@ -125,8 +125,8 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=lucasschlei&color=brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=lucasschlei.lucasschlei)
+![](https://komarev.com/ghpvc/?username=lucasschlei&color=3d0005)
+![](https://visitor-badge.glitch.me/badge?page_id=lucasschlei.lucasschlei&color=3d0005)
 
 
 
