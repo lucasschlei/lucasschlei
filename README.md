@@ -17,19 +17,19 @@ Faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempr
 
 <h1 align="center"> 🌐 Idioma </h1>
 
-- 🇧🇷 <b>Português:</b> fluente (nativo)
-- 🇺🇸 <b>Inglês:</b> básico
+- 🇧🇷 <b>Português:</b> básico
+- 🇺🇸 <b>Inglês:</b> sei dar oi!
 
 ---
 
 <h1 align="center"> 🎓 Certificação </h1>
 
 
-- SENAI - Controle Emocional para Comunicação Profissional
-- SENAI - Design Thinking
-- SENAI - Informática Básica
-- SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
-- SENAI - Técnico em Desenvolvimento de Sistemas — 1200h | 2023–2025
+- SENAI - Bubmbum Guloso
+- SENAI - Quicada Mortal
+- SENAI - Informática Minima
+- SENAI - Mercado de Trabalho (desempregado)
+- SENAI - Técnico em Desenvolvimento de Mulheres LGBT — 1200h | 2023–2025
 ---
 
 <h1 align="center"> 💻 Tecnologias e Ferramentas </h1>
