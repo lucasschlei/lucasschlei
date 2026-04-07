@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<h1 align="center">  🧑‍💻 Sobre minha face </h1>
+<h1 align="center">  🧑‍💻 Sobre mim </h1>
 
 
 
@@ -17,19 +17,19 @@ Faço parte do CentroWeg nesta mesma área de Desenvolvimento de Sistemas, sempr
 
 <h1 align="center"> 🌐 Idioma </h1>
 
-- 🇧🇷 <b>Português:</b> básico
-- 🇺🇸 <b>Inglês:</b> sei dar oi!
+- 🇧🇷 <b>Português:</b> fluente (nativo)
+- 🇺🇸 <b>Inglês:</b> básico
 
 ---
 
 <h1 align="center"> 🎓 Certificação </h1>
 
 
-- SENAI - Bubmbum Guloso
-- SENAI - Quicada Mortal
-- SENAI - Informática Minima
-- SENAI - Mercado de Trabalho (desempregado)
-- SENAI - Técnico em Desenvolvimento de Mulheres LGBT — 1200h | 2023–2025
+- SENAI - Controle Emocional para Comunicação Profissional
+- SENAI - Design Thinking
+- SENAI - Informática Básica
+- SENAI - Mercado de Trabalho e Planejamento da Carreira Profissional
+- SENAI - Técnico em Desenvolvimento de Sistemas — 1200h | 2023–2025
 ---
 
 <h1 align="center"> 💻 Tecnologias e Ferramentas </h1>
@@ -129,4 +129,3 @@ Jesus veio ao mundo para salvar os pecadores, dos quais eu sou o pior."_
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3d0005&height=120&section=footer" width="100%" />
-
